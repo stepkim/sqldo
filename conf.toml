@@ -1,0 +1,12 @@
+[Mysql]
+Db = "Yearning_go"
+Host = "localhost"
+Port = "3306"
+Password = "root"
+User = "root"
+
+[GoInception]
+Host = "127.0.0.1"
+Port = 4000
+User = "root"
+Password = ""
